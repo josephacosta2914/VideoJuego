@@ -1,0 +1,10 @@
+C:\Users\Joseph Acosta\source\repos\Base_de_datos_conexion\Base_de_datos_conexion\bin\Debug\Base_de_datos_conexion.exe.config
+C:\Users\Joseph Acosta\source\repos\Base_de_datos_conexion\Base_de_datos_conexion\bin\Debug\Base_de_datos_conexion.exe
+C:\Users\Joseph Acosta\source\repos\Base_de_datos_conexion\Base_de_datos_conexion\bin\Debug\Base_de_datos_conexion.pdb
+C:\Users\Joseph Acosta\source\repos\Base_de_datos_conexion\Base_de_datos_conexion\obj\Debug\Base_de_datos_conexion.csprojAssemblyReference.cache
+C:\Users\Joseph Acosta\source\repos\Base_de_datos_conexion\Base_de_datos_conexion\obj\Debug\Base_de_datos_conexion.Form1.resources
+C:\Users\Joseph Acosta\source\repos\Base_de_datos_conexion\Base_de_datos_conexion\obj\Debug\Base_de_datos_conexion.Properties.Resources.resources
+C:\Users\Joseph Acosta\source\repos\Base_de_datos_conexion\Base_de_datos_conexion\obj\Debug\Base_de_datos_conexion.csproj.GenerateResource.cache
+C:\Users\Joseph Acosta\source\repos\Base_de_datos_conexion\Base_de_datos_conexion\obj\Debug\Base_de_datos_conexion.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Acosta\source\repos\Base_de_datos_conexion\Base_de_datos_conexion\obj\Debug\Base_de_datos_conexion.exe
+C:\Users\Joseph Acosta\source\repos\Base_de_datos_conexion\Base_de_datos_conexion\obj\Debug\Base_de_datos_conexion.pdb
